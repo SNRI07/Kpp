@@ -18,7 +18,7 @@ K++을 이용해보세요\
 `while`=`동안`\
 `if`=`만약`\
 `else`=`아니면`\
-`brake`=`멈춰`\
+`break`=`멈춰`\
 `continue`=`계속`\
 `string`=`문자열`\
 `sort`=`정렬`\
