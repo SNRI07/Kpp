@@ -23,9 +23,9 @@ K++을 이용해보세요\
 `string`=`문자열`\
 `sort`=`정렬`\
 `unique`=`중복제거`\
-`찾기`=`find`\
-`최소값`=`min_element`\
-`최대값`=`max_element`
+`find`=`찾기`\
+`min_element`=`최소값`\
+`max_element`=`최대값`
 # 예제
 hello world 출력
 ```
