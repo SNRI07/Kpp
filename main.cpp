@@ -16,7 +16,7 @@ typedef char 숯;
 #define 동안 while
 #define 만약 if
 #define 아니면 else
-#define 멈춰 brake
+#define 멈춰 break
 #define 계속 continue
 #define 문자열 string
 #define 정렬 sort
