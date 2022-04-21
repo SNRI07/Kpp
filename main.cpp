@@ -5,7 +5,7 @@ using namespace std;
 typedef int 정수;
 typedef short 짧은;
 typedef long 긴;
-typedef long long 긴긴;
+typedef long long 매우긴;
 typedef float 뜨다;
 typedef char 숯;
 #define 출력 cout
