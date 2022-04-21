@@ -6,7 +6,7 @@ K++을 이용해보세요\
 `int`=`정수`\
 `short`=`짧은`\
 `long` `긴`\
-`long long`=`긴긴`\
+`long long`=`매우긴`\
 `float`=`뜨다`\
 `char`=`숯`
 # 명령어
